@@ -1,5 +1,3 @@
-# RECLoss
-A new try to optimize a supervised optical flow estimation model
-
+# RECLoss A new try to optimize a supervised optical flow estimation model
 coming soon
 
