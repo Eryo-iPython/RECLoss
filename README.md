@@ -1,3 +1,3 @@
-# RECLoss: A new try to optimize a supervised optical flow estimation model
+# Random Epipolar Constraint Loss Functions for Supervised Optical Flow Estimation
 coming soon
 
