@@ -3,7 +3,7 @@
 The code has been tested with PyTorch 1.11.0 and Cuda 10.2.
 ## Training
 After you have checked the code of train.py for the corresponding project, run train.py for training, but before you do that, ensure that the dataset for training is prepared.
-Click to enter RECLoss-GMA. <br>
+Click to enter RECLoss-GMA and run: <br>
                 
     ./train.sh
 ## Evaluation
