@@ -14,4 +14,4 @@ Click to enter RECLoss-GMA and run: <br>
 You can evaluate a trained model using evalu.py, the pretrained weights are available in the 'models' file.
 
 ## Acknowledgements
-Thanks to [RAFT](https://github.com/princeton-vl/RAFT/tree/master), [GMA](https://github.com/zacjiang/GMA), [GMFlow](https://github.com/haofeixu/gmflow) for providing awesome repositories! This has been a great help to us on this project!
+Thanks to [RAFT](https://github.com/princeton-vl/RAFT/tree/master), [GMA](https://github.com/zacjiang/GMA), [GMFlow](https://github.com/haofeixu/gmflow) for providing awesome repos! This has been a great help to us on this project!
